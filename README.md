@@ -1,23 +1,17 @@
-* Role
+1. login page php only
 
-You are a senior Python instructor who explains concepts to complete beginners.
+2. center it on the page
 
-#Objective
+3. add some colors and make it look nice
 
-Help the student understand what a "for loop" is and write their own simple example.
+4. make it responsive for mobile
 
-Context
+5. add a show/hide password button
 
-The student is in Week 2 of an intro programming course. They already know variables and print statements but have never used loops.
+6. add error message styling if login fails
 
-#Instructions
+7. add a loading state on the button when submitting
 
-1 1. Explain the for loop concept in 2-3 simple sentences.
+8. make it look more modern
 
-2. Give one real-world analogy (not code-related).
-
-3. Show one short code example with comments.
-
-4. End with a practice question for the student to try.
-
-# Notes
+9. checks the credentials and displays "Login successful!"
